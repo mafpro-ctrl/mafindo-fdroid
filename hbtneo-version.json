@@ -1,7 +1,7 @@
 {
-  "version_name": "1.1.0",
-  "version_code": 2,
-  "apk_url": "https://raw.githubusercontent.com/mafpro-ctrl/mafindo-fdroid/main/repo/id.or.mafindo.hbtneo_2.apk",
-  "changelog_id": "Fitur auto-update + tampilan versi di halaman Tentang",
-  "changelog_en": "Auto-update feature + version display in About screen"
+  "version_name": "1.2.0",
+  "version_code": 3,
+  "apk_url": "https://raw.githubusercontent.com/mafpro-ctrl/mafindo-fdroid/main/repo/id.or.mafindo.hbtneo_3.apk",
+  "changelog_id": "Tambah kategori Game & Simulasi dan Detektor AI, perbarui daftar tools",
+  "changelog_en": "Added Game & Simulation category and AI Detector, updated tools list"
 }
